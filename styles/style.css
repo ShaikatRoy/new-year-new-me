@@ -55,7 +55,7 @@
   align-items: center;
 }
 .author-img img {
-  margin: 100px 0px 100px 100px;
+  margin: 100px 50px 50px 150px;
   width: 450px;
 }
 .achivement-title {
@@ -70,7 +70,7 @@
   line-height: 26px;
   color: #444343;
   padding-left: 50px;
-  padding-right: 350px;
+  padding-right: 280px;
   text-align: left;
   margin-bottom: 10px;
 }
@@ -95,6 +95,7 @@ li {
   font-weight: 800;
   line-height: 47px;
   text-align: center;
+  margin-top: 50px;
 }
 .plan-box {
   display: flex;
@@ -118,9 +119,6 @@ li {
   color: #737272;
   font-size: 25px;
 }
-.plan-box img {
-}
-
 /* gradient section */
 .gradient {
   background-image: url(../assets/images/watch.png),
